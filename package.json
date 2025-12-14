@@ -12,9 +12,6 @@
   ],
   "author": "Md Abdul Basir",
   "license": "MIT",
-  "dependencies": {
-    "unique-title-extractor": "file:unique-title-extractor-1.0.0.tgz"
-  },
   "homepage": "https://github.com/basir5101/unique-title-extractor",
   "repository": {
     "type": "git",
